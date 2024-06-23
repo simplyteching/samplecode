@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Collections/v16
+/Collections/bin/Debug/net5.0
+/Collections/obj
